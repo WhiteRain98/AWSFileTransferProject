@@ -1,0 +1,10 @@
+HouseID,Temp,Address
+22,70.0,abcd
+23,,abce
+23,76.0,
+24,71.0,
+24,,cbcd
+25,,cbce
+28,72.0,
+45,73.0,bbcd
+47,72.0,bbce
